@@ -1,1 +1,3 @@
 # REACTSCNET
+
+npm init
