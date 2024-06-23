@@ -8,6 +8,7 @@ Prerequisites
 
 Installation (PROJECT MIGHT NOT WORK IF THESE ARE NOT INSTALLED)
 - npm init
+- cd /home/ST10117284/REACTSCNET/south-africa-map2-master/south-africa-map2-master
 - npm intsall
 - npm install axios
 - npm install react-responsive-carousel
