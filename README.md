@@ -1,20 +1,21 @@
 # REACTSCNET
 Prerequisites
 
-React
-React Router DOM
-Leaflet
-Axios
+- React
+- React Router DOM
+- Leaflet
+- Axios
+
 Installation (PROJECT MIGHT NOT WORK IF THESE ARE NOT INSTALLED)
-npm init
-npm intsall
-npm install axios
-npm install react-responsive-carousel
-npm install react-youtube
-npm install react-icons
+- npm init
+- npm intsall
+- npm install axios
+- npm install react-responsive-carousel
+- npm install react-youtube
+- npm install react-icons
 
 To start the development server:
-npm start
+- npm start
 
 changes
 
